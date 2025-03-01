@@ -1,3 +1,12 @@
+# Re-import necessary libraries to ensure proper execution
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error
+import ace_tools as tools
+
 # **Step 1: Load the User's Dataset**
 
 # Define file path

@@ -37,4 +37,4 @@ Potential Future Enhancements:
    Implement Deep Learning (DNN or LSTM) models for real-time adaptive learning.
  Apply Reinforcement Learning (e.g., Q-Learning, DQN) for continuous slot allocation optimization.
  Conclusion:
-This AI-driven approach significantly enhances network efficiency, reducing data blocking probability and ensuring smarter bandwidth allocation in high-traffic environments. 🚀
+This AI-driven approach significantly enhances network efficiency, reducing data blocking probability and ensuring smarter bandwidth allocation in high-traffic environments. 
